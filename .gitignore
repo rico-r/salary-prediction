@@ -1,6 +1,8 @@
 *
 !.gitignore
 !web.py
+!salary.py
 !requirements.txt
 !SalaryData.csv
 !prediksi_gaji.sav
+!img.jpg
